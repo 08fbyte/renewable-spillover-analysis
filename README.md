@@ -6,6 +6,8 @@ Analysis of the renewable spillover effect based on Ruhnau &amp; Lehmann (2025).
 [![Research](https://img.shields.io/badge/Based_on-Ruhnau_&_Lehmann_2025-purple.svg)](https://www.ewi.uni-koeln.de/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Dataset: https://www.ewi.uni-koeln.de/en/publikationen/green-hydrogen-support-with-overlapping-climate-policies/
+
 ## 📊 Project Overview
 
 The renewable spillover effect is a previously underexplored phenomenon where **flexible hydrogen production triggers additional renewable investment that spills over to benefit the entire electricity grid**. This project analyzes and quantifies this effect based on the groundbreaking research by Ruhnau & Lehmann (2025).
