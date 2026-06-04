@@ -138,7 +138,7 @@ Triggers additional renewable investment → Spillover generation displaces foss
 
 ```bash
 pip install matplotlib numpy pandas
-git clone https://github.com/yourusername/renewable-spillover-analysis.git
+git clone https://github.com/08fbyte/renewable-spillover-analysis.git
 cd renewable-spillover-analysis
 python renewable_spillover_analysis.py
 import matplotlib.pyplot as plt
